@@ -1,0 +1,23 @@
+.allpost{
+    overflow:hidden;
+    overflow-y:scroll;
+    height: 100%;
+
+    
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center ;
+
+    
+}
+.singlePost{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.comments{
+    column-gap: 2cap;
+    
+}

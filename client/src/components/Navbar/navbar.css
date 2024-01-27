@@ -1,0 +1,9 @@
+.navbarContainer{
+    height: 10vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: 10px;
+    gap: 10px;
+}
+.navbarTitle{flex: 1;}

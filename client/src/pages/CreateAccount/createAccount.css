@@ -1,0 +1,60 @@
+.otpverify{
+    display: flex;
+    flex-direction: column;
+    min-width: auto;
+    gap: 1px;
+    
+
+
+}
+.otpverify p{
+    margin: 0px;
+    font-size: small;
+    color:grey;
+}
+
+.container{
+    display: flex;
+    height: 90vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.formContainer{
+    height: 400px;
+    width: 300px;
+    background-color: #191919;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border-radius: 20px;
+}
+.inputBox{
+    padding: 12px;
+    width: 200px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: #191919;
+    color: white;
+}
+.rounded{
+    padding: 10px;
+    /* width: 90%; */
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+button{
+    width: 75%;
+    background-color: #404040;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap : 5px
+}
+.headingCreatedAccount{
+    width: 250px;
+    text-align: center;
+}

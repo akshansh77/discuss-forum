@@ -1,0 +1,19 @@
+.PostCard{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 90%;
+    background-color:#3D3D3D;
+    padding: 10px;
+
+}
+
+.PostCard h3{
+    margin-top: 0px;
+
+}
+.comments{
+    display: flex;
+    
+    
+}

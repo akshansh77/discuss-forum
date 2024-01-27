@@ -1,0 +1,32 @@
+.homeContainer{
+    width: 80%;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+}
+.leftPanelHome{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 30%;
+    padding-right: 30px;
+}
+.leftPanelHome button{
+    padding: 4px 4px 15px 15px;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    border-radius: 10px;
+    font-size: medium;
+    font-weight: bold;
+    background-color: #404040;
+}
+
+.rightPanelHome{
+    background-color: #191919;
+    width: 100%;
+    border-radius: 20px;
+    margin: 5px;
+}
